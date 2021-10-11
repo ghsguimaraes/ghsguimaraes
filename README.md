@@ -22,3 +22,8 @@ Perfil no QRZ [PROFILE](https://www.qrz.com/db/pu2vtg)
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/ghsguimaraes/count.svg" /></p>
 
 
+
+
+<a href="https://info.flagcounter.com/ZoSh"><img src="https://s04.flagcounter.com/count2/ZoSh/bg_FFFFFF/txt_000000/border_CCCCCC/columns_1/maxflags_5/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
