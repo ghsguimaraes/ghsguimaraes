@@ -15,7 +15,7 @@
 
 
 
-Perfil no QRZ [qrz](https://www.qrz.com/lookup)
+Perfil no QRZ [PROFILE](https://www.qrz.com/db/pu2vtg)
 
 
 <p align="center"> Bem Vindo </p>
